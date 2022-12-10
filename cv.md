@@ -5,6 +5,7 @@
 
 # Contact 
 GitHub: [rasella](https://github.com/rasella)
+
 Telegram: [letelegina](https://t.me/letelegina)
 
 # About Me
@@ -39,4 +40,5 @@ As part of the workflows, there was experience in writing Ansible playbooks in y
 
 # Languages
 __Russian__ - native speaker
+
 __English__ - А1, reading technical literature
