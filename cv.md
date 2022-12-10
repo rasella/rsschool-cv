@@ -26,6 +26,9 @@ I want to upgrade my knowledge in the field of front-end development for further
 
 # Code Examples
 ```
+function multiply(a,b){
+    return a*b;
+}
 ```
 
 # Education
