@@ -1,6 +1,7 @@
  # Telegina Elena
- |![Avatar](https://i.mycdn.me/i?r=AzEOxUXG5QgodWC3x6hM10CkpqCJ_WHYzvo_Hr_gUKmB2KXuoKW3Q66q9_-KT4qkkPg&fn=legacy_14)|
- |-|
+
+ ![Avatar](https://i.mycdn.me/i?r=AzEOxUXG5QgodWC3x6hM10CkpqCJ_WHYzvo_Hr_gUKmB2KXuoKW3Q66q9_-KT4qkkPg&fn=legacy_14)|
+ |----|
 
 # Contact 
 GitHub: [rasella](https://github.com/rasella)
